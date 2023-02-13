@@ -6,5 +6,7 @@ Storage : 128 GB
 Color   : Mist Blue
 
 Version : 15.0
+
+Version : 17.0
 Version : 20.0
 
