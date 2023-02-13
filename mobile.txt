@@ -1,4 +1,6 @@
 Name    : realme
 Version : 12.0
-RAM     : 6 GB
+RAM     : 8 GB
 Storage : 128 GB
+Color   : Mist Blue
+
