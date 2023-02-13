@@ -1,0 +1,18 @@
+p{
+    color:rgb(195, 197, 222); 
+    background:rgb(31, 22, 63);
+    font-size:50px;
+    font-style: italic;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.box{
+    width: 200px;
+    height: 200px;
+    background-color: chocolate;
+    margin:10px;
+    padding:20px;
+    border:2px solid green;
+    float:left;
+    position:relative;
+    
+}
