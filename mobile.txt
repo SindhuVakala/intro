@@ -1,6 +1,0 @@
-Name    : realme
-Version : 12.0
-  Version : 14.0
-RAM     : 8 GB
-Storage : 128 GB
-Color   : Mist Blue
